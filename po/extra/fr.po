@@ -1,0 +1,111 @@
+# French translations for extra package.
+# Copyright (C) 2020 THE extra'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the extra package.
+# Nathan Bonnemains (@NathanBnm), 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-01 14:08+0200\n"
+"PO-Revision-Date: 2020-05-01 14:06+0200\n"
+"Last-Translator: Nathan Bonnemains (@NathanBnm)\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: data/com.github.danrabbit.harvey.desktop.in:3
+#: data/com.github.danrabbit.harvey.appdata.xml.in:7
+msgid "Harvey"
+msgstr "Harvey"
+
+#: data/com.github.danrabbit.harvey.desktop.in:4
+msgid "Calculate and visualize color contrast"
+msgstr "Calculez et visualisez les contrastes de couleurs"
+
+#: data/com.github.danrabbit.harvey.desktop.in:6
+msgid "com.github.danrabbit.harvey"
+msgstr "com.github.danrabbit.harvey"
+
+#: data/com.github.danrabbit.harvey.desktop.in:7
+msgid "contrast;color;"
+msgstr "contraste;couleur;"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:8
+msgid "The hero that Gotham needs right now"
+msgstr "Le héros dont Gotham a besoin dès à présent"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:10
+msgid ""
+"Calculate and visualize color contrast. Harvey checks a given set of colors "
+"for WCAG contrast compliance."
+msgstr ""
+"Calculez et visualisez les contrastes de couleur. Harvey vérifie qu'un jeu "
+"de couleur est conforme aux recommandation de contraste WCAG."
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:12
+msgid "Pick colors from your display"
+msgstr "Sélectionnez des couleurs depuis votre écran"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:13
+msgid "See explanations for different grades on hover"
+msgstr "Visualisez des explications pour les différents niveaux au survol"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:14
+msgid "Quit with the handy shortcut Ctrl + Q"
+msgstr "Quittez avec le raccourci pratique Ctrl + Q"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:15
+msgid "Join the contrast rebellion"
+msgstr "Rejoignez la rébellion du contraste"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:24
+msgid "Update French translation thanks to @NathanBnm"
+msgstr "Mise à jour des traductions en français grâce à @NathanBnm"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:29
+msgid "Juno update!"
+msgstr "Mise à jour pour Juno !"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:31
+msgid "Add a new A level"
+msgstr "Ajout d'un nouveau niveau A"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:32
+msgid "Show explanations for grades on hover"
+msgstr "Affichage des explications pour les niveaux au survol"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:33
+msgid "Live preview of color selector in main window"
+msgstr "Aperçu en tant réel du sélecteur de couleur dans la fenêtre principale"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:34
+msgid "Code cleanups"
+msgstr "Amélioration du code"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:40
+msgid "Add French and Spanish Translations"
+msgstr "Ajout des traductions en français et en espagnol"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:46
+msgid "Add HiDPI icons support"
+msgstr "Ajout de la prise en charge des icônes HDPI"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:47
+msgid "RTL text layout support"
+msgstr "Prise en charge de l'affichage du texte de droite à gauche"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:48
+msgid "Now with automated testing"
+msgstr "Test automatique"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:49
+msgid "Update to latest APIs; get ready for Juno"
+msgstr "Mise à jour vers les dernières APIs ; Préparation pour Juno"
+
+#: data/com.github.danrabbit.harvey.appdata.xml.in:89
+msgid "Daniel Foré"
+msgstr "Daniel Foré"
